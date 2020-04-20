@@ -1,1 +1,1 @@
-# OpusMagnum
+# Magnum Opus 
